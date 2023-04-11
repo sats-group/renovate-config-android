@@ -16,6 +16,14 @@
         "com.google.devtools.ksp",
         "org.jetbrains.kotlin"
       ]
+    },
+    {
+      "groupName": "Jetpack Compose",
+      "groupSlug": "compose",
+      "matchPackagePrefixes": [
+        "androidx.compose:compose-bom",
+        "com.google.accompanist"
+      ]
     }
   ]
 }
