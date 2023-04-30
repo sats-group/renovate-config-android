@@ -9,7 +9,7 @@
   "timezone": "NO",
   "packageRules": [
     {
-      "groupName": "Kotlin, KSP and Compose Compiler",
+      "groupName": "Kotlin",
       "groupSlug": "kotlin",
       "matchPackagePrefixes": [
         "androidx.compose.compiler",
