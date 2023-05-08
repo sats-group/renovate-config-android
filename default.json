@@ -18,6 +18,14 @@
       ]
     },
     {
+      "groupName": "Dagger",
+      "groupSlug": "dagger",
+      "matchPackagePrefixes": [
+        "com.google.dagger",
+        "se.ansman.dagger.auto"
+      ]
+    },
+    {
       "groupName": "Jetpack Compose",
       "groupSlug": "compose",
       "matchPackagePrefixes": [
